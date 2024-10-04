@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph{
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.smaller-paragraph{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+button{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.confirm-button{
+    background-color: hsl(120, 100%, 25%);
+    color: white;
+    font-weight: bold;
+}
+.confirm-button:hover{
+    background-color: hsl(120, 100%, 33%);
+}
+.confirm-button:active{
+    background-color: hsl(120, 100%, 40%);
+}
+
+.cancel-button{
+    background-color: hsl(0, 0%, 100%);
+}
+.cancel-button:hover{
+    background-color: hsl(0, 0%, 90%);
+}
+.cancel-button:active{
+    background-color: aliceblue;
+}
+
+.thin-text, .thin-and-child-text{
+    font-size: 20px;
+}
+
+.child-and-bold-text{
+    font-size: 15px;
+    font-weight: bold;
+}
