@@ -1,0 +1,22 @@
+h1, h5 {
+    background-color: lightpink; 
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+    font-weight: lighter;
+}
+
+h2 {
+    color: blue; 
+    font-size: 36px; 
+}
+
+h3 {
+    background-color: lightpink; 
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+    font-size: 24px; 
+}
+
+h4 {
+    background-color: lightgreen; 
+    font-size: 24px; 
+    font-weight: bold; 
+}

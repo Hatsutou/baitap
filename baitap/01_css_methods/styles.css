@@ -1,0 +1,18 @@
+div{
+    display: flex;
+    background-color: red;
+    color: white;
+    justify-content: center;
+    align-self: center;
+    font-size: 32px;
+}
+p{
+    display: flex;
+    background-color: green;
+    color: white;
+}
+button{
+    display: flex;
+    background-color: orange;
+    color: black;
+}
